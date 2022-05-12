@@ -35,14 +35,14 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://hukidev.vercel.app/" target="blank">
-    <img width="90" height="90" src="https://hukidev.vercel.app/huki-icon.png" alt="hukidev-blog" />
+  <a height="90" href="https://hukidev.vercel.app/" target="blank">
+    <img width="75" height="75" src="https://hukidev.vercel.app/huki-icon.png" alt="hukidev-blog" />
   </a>
   <a href="https://www.facebook.com/pqhuy2312/" target="blank">
-    <img width="75" height="75" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="mailto:pqhuy2312@gmail.com" target="top">
-    <img width="75" height="75" src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
 
