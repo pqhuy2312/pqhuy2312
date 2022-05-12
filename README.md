@@ -36,7 +36,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://hukidev.vercel.app/" target="blank">
-    <img width="90" height="90" src="https://hukidev.vercel.app/huki-icon.png" alt="hukidev-blog" />
+    <img width="80" height="80" src="https://hukidev.vercel.app/huki-icon.png" alt="hukidev-blog" />
   </a>
   <a href="https://www.facebook.com/pqhuy2312/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
